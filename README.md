@@ -2,6 +2,13 @@
 
 Juego interactivo de preguntas sobre los temas del semestre: **robótica, ciberseguridad, inteligencia artificial y mundo TIC**. Tiene temporizador, puntaje con bonos, comodines, retroalimentación en cada respuesta, nota final de 0.0 a 5.0 y ranking.
 
+**Jugar en línea:** https://michaelpob.github.io/quiz-tic/
+
+## Abrirlo en Replit
+
+- **Rápido:** abre `replit.com/github.com/Michaelpob/quiz-tic` en el navegador.
+- **Paso a paso:** entra a [replit.com/import](https://replit.com/import), elige **GitHub**, conecta tu cuenta, escoge `quiz-tic` y dale **Import**. Luego **Run**.
+
 ## Cómo se juega
 
 1. Escribe tu nombre, elige los temas y cuántas preguntas quieres (5, 10 o 15).
